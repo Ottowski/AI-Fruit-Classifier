@@ -1,0 +1,18 @@
+[
+    {
+        "Name": "Nature",
+        "Confidence": 100.0
+    },
+    {
+        "Name": "Outdoors",
+        "Confidence": 100.0
+    },
+    {
+        "Name": "Sky",
+        "Confidence": 100.0
+    },
+    {
+        "Name": "Horizon",
+        "Confidence": 94.8319320678711
+    }
+]
